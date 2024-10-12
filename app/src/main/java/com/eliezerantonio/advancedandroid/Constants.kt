@@ -1,3 +1,3 @@
 package com.eliezerantonio.advancedandroid
 
-const val BASE_URL = "http://todogs.herokuapp.com/api/v1"
+const val BASE_URL = "https://todogs.herokuapp.com/api/v1/"
